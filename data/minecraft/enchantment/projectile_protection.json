@@ -43,7 +43,7 @@
     "per_level_above_first": 6
   },
   "slots": [
-    "armor"
+    "any"
   ],
   "supported_items": "#minecraft:enchantable/armor",
   "primary_items": "#minecraft:enchantable/armor",
