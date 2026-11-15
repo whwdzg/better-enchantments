@@ -1,4 +1,4 @@
-{
+﻿{
   "anvil_cost": 2,
   "description": {
     "translate": "enchantment.minecraft.unbreaking"
@@ -23,10 +23,10 @@
           }
         },
         "requirements": {
-          "condition": "minecraft:match_tool",
           "predicate": {
             "items": "#minecraft:enchantable/armor"
-          }
+          },
+          "type": "minecraft:match_tool"
         }
       },
       {
@@ -47,13 +47,13 @@
           }
         },
         "requirements": {
-          "condition": "minecraft:inverted",
           "term": {
-            "condition": "minecraft:match_tool",
             "predicate": {
               "items": "#minecraft:enchantable/armor"
-            }
-          }
+            },
+            "type": "minecraft:match_tool"
+          },
+          "type": "minecraft:inverted"
         }
       }
     ]
@@ -71,6 +71,6 @@
     "any"
   ],
   "supported_items": "#minecraft:enchantable/durability",
-  "primary_items":"#minecraft:enchantable/durability",
+  "primary_items": "#minecraft:enchantable/durability",
   "weight": 5
 }
