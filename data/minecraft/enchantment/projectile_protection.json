@@ -1,4 +1,4 @@
-{
+﻿{
   "anvil_cost": 2,
   "description": {
     "translate": "enchantment.minecraft.projectile_protection"
@@ -43,9 +43,9 @@
     "per_level_above_first": 6
   },
   "slots": [
-    "armor"
+    "any"
   ],
   "supported_items": "#minecraft:enchantable/armor",
-    "primary_items":"#minecraft:enchantable/armor",
+  "primary_items": "#minecraft:enchantable/armor",
   "weight": 5
 }
