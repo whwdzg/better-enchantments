@@ -1,4 +1,4 @@
-{
+﻿{
   "anvil_cost": 4,
   "description": {
     "translate": "enchantment.minecraft.blast_protection"
@@ -55,9 +55,9 @@
     "per_level_above_first": 8
   },
   "slots": [
-    "armor"
+    "any"
   ],
   "supported_items": "#minecraft:enchantable/armor",
-  "primary_items":"#minecraft:enchantable/armor",
+  "primary_items": "#minecraft:enchantable/armor",
   "weight": 2
 }
