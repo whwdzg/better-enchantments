@@ -1,7 +1,7 @@
 ﻿{
 	"pack": {
 		"min_format": 94,
-		"max_format": [ 121, 0 ],
+		"max_format": [ 121, 99 ],
 		"description":"Better Enchantments | 更好附魔"
 	}
 }
